@@ -11,14 +11,7 @@ Features :
 - Download the background-removed image.
 - Reset the app to upload the new image.
 
-
-Demo :
-![Demo Screenshot](screenshot.png)  
-*(Add a screenshot of your app here)*
-
----
-
-## How to Use
+How to Use :
 
 1. Upload an image by clicking or dragging it into the upload area.
 2. Click **Remove Background** to process the image.
@@ -26,11 +19,4 @@ Demo :
 4. Click **Download Image** to save the processed image.
 5. Use **Reset** to clear the current image and upload a new one.
 
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/shariquehussain/image-background-removal.git
+   
