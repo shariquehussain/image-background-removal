@@ -12,12 +12,14 @@ Remove image background automatically via API.
 Download the background-removed image.
 Reset the app to upload the new image.
 Responsive and clean UI.
+
 Technologies used :
 
 HTML5
 CSS3
 JavaScript (ES6)
 remove.bg API(https://www.remove.bg/api)
+
 How to Use :
 
 Upload an image by clicking or dragging it into the upload area. Screenshot(dropped.PNG)
